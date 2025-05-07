@@ -38,33 +38,24 @@ Before you begin, ensure you have the following installed:
 
 ## Getting Started
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Aman218/OnlineLibrary.git
 ```
-
-2. Navigate into the project directory:
+1. Navigate into the project directory:
 ```bash
 cd OnlineLibrary
 ```
 
-3. Install the dependencies:
+2. Install the dependencies:
 ```bash
 npm install
-
 ```
 
-4. To run the development server with Vite:
+3. To run the development server with Vite:
 ```bash
 npm run dev
 ```
 
-5. Open your browser and navigate to:
-```
-http://localhost:5173/
-```
-
 ## Project Links
 
-- **GitHub Repository**: https://github.com/Aman218/OnlineLibrary
-- **Deployed Application**: https://online-library-peach.vercel.app/
+- **GitHub Repository**: (https://github.com/919Hemant/online-library-system)
+- **Deployed Application**: (https://online-library-system-indol.vercel.app/)
+
